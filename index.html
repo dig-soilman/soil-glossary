@@ -1692,23 +1692,6 @@
 </article>
 
 <!-- Scripts -->
-<script>
-window.onload = function() {
-	var labels = document.getElementsByTagName('label');
-	for (var i = 0; i < labels.length; i++) {
-		disableSelection(labels[i]);
-	}
-};
-function disableSelection(element) {
-	if (typeof element.onselectstart != 'undefined') {
-		element.onselectstart = function() { return false; };
-	} else if (typeof element.style.MozUserSelect != 'undefined') {
-		element.style.MozUserSelect = 'none';
-	} else {
-		element.onmousedown = function() { return false; };
-	}
-}
-</script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async>
 </script>
 <!-- End Scripts -->
