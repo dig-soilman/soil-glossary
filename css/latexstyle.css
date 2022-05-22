@@ -311,7 +311,7 @@ nav li:before {
 
 /* Center definitions (most useful for display equations) */
 dl dd {
-  text-align: center;
+  text-align: left;
 }
 
 /* Theorem */
