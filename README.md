@@ -1,6 +1,6 @@
 # Glossary of Soil Terms
 
-The listing of soil terms and definitions was assymbled in support of an older (2007) [Soil Reader](https://enviro-soil.com/soils101/) that was created as an examplar to University students of how an 'A' student might take notes for an upper division introductory soils course.
+The listing of soil terms and definitions was assymbled in support of an older (2007) [Soil Reader](https://enviro-soil.com/soils101/) (now explanded slightly) that was created as an examplar to University students of how an 'A' student might take notes for an upper division introductory soils course.
 
 The basis of these terms comes from academicians too great in number to list. 
 
