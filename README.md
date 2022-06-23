@@ -1,10 +1,10 @@
 # Glossary of Soil Terms
 
-The listing of soil terms and definitions was assymbled in support of an older (2007) [Soil Reader](https://enviro-soil.com/soils101/) (now explanded slightly). That linked Soil Reader was created as an examplar to University students of how an 'A' student might take notes for an upper division introductory soils course.
+The listing of soil terms and definitions was assymbled in support of an older (2007) [Soil Reader](https://dig-soilman.github.io/soil-reader/) (now explanded slightly). That linked Soil Reader was created as an examplar to University students of how an 'A' student might take notes for an upper division introductory soils course.
 
 The basis of these terms comes from academicians too great in number to list.
 
-A latexstyle.css was applied to the web page displaying the definitions list. Then local style was altered to bold definition terms and changed the   display of the definitions to justify-left.
+A latexstyle.css was applied to the soil-glossary.html web page. The local style was altered to bold definition terms changed the display of the definitions to justify-left.
 
 Fetching the index.html provides the definitions list. To retain formatting pull the contents of the css folder.
 
